@@ -1,0 +1,25 @@
+.textParagraph {
+    margin: 30px;
+    width: 75%;
+}
+
+table {
+    width: 80%;
+    padding: 25px;
+    border-spacing: 10px;
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+
+th {
+    border-bottom: solid black 1px;
+}
+
+table.lastChild {
+    border-bottom: none;
+}
+
+td {
+    padding: 10px;
+    border-bottom: solid black 1px;
+}
