@@ -3,6 +3,12 @@
     width: 75%;
 }
 
+.newsBox {
+    margin: 30px;
+    width: 300px;
+    border: solid black 1px;
+}
+
 table {
     width: 80%;
     padding: 25px;
